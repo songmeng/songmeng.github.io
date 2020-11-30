@@ -1,0 +1,56 @@
+{
+  "types": [
+    {
+      "name": "Android",
+      "stype": "android"
+    },
+    {
+      "name": "Html5",
+      "stype": "html5"
+    },
+    {
+      "name": "Java Web",
+      "stype": "javaWeb"
+    }
+  ],
+  "labels": [
+    {
+      "name": "Tools",
+      "slabel": "tools"
+    },
+    {
+      "name": "Life",
+      "slabel": "life"
+    },
+    {
+      "name": "Beyond",
+      "slabel": "beyond"
+    }
+  ],
+  "selects": [
+    {
+      "name": "Android",
+      "stype": "1"
+    },
+    {
+      "name": "Html5",
+      "stype": "2"
+    },
+    {
+      "name": "Java Web",
+      "stype": "3"
+    },
+    {
+      "name": "Tools",
+      "stype": "4"
+    },
+    {
+      "name": "Life",
+      "stype": "5"
+    },
+    {
+      "name": "Beyond",
+      "stype": "6"
+    }
+  ]
+}
